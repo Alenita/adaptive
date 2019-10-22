@@ -1,0 +1,31 @@
+.place__container {
+    display:flex;
+    flex-direction: column;
+    width: 484px;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__container {
+       width: 48.9%;
+       padding-top: 20px;
+       margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .place__container {
+       width: 91.5%;
+       margin: 20px auto 0;
+       padding: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__container {
+       width: 90%;
+       margin: 20px auto 0;
+       padding: 0;
+    }
+}
