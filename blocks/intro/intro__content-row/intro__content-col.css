@@ -1,0 +1,20 @@
+.intro__content-col {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 11px;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+    .intro__content-col {
+        margin-top: 0;
+    }
+}
+/*
+.intro__content-col:last-child {
+    width: 283px;
+    height: 25px;
+}*/
