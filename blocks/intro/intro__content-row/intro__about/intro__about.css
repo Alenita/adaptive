@@ -1,0 +1,9 @@
+.intro__about {
+    font-size: 10px;
+    line-height: 16px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
