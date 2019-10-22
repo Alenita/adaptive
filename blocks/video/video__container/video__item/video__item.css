@@ -1,0 +1,14 @@
+.video__item {
+    width: 49%;
+    position: relative;
+}
+
+
+@media screen and (max-width: 480px) {
+    .video__item {
+        width: 100%;
+    }
+    .video__item:last-child {
+        margin-top: 5px;
+    }
+}
