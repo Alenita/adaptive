@@ -1,0 +1,32 @@
+.comments {
+    margin: 110px auto 0;
+    width: 1184px;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .comments {
+        width: 90.6%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .comments {
+        margin: 103px auto 0;
+        width: 85.9%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .comments {
+        margin: 65px auto 0;
+        width: 91.5%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .comments {
+        margin: 60px auto 0;
+        width: 90%;
+    }
+}
