@@ -2,7 +2,7 @@
 /*общие настройки*/
 @import url('../blocks/link/link.css');
 @import url('../blocks/list.css');
-@import url('../fonts/font.css');
+@import url('../font/font.css');
 @import url('../blocks/video/blackout.css');
 @import url('../blocks/content.css');
 /*сама страница*/
