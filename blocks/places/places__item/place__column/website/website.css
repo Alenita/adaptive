@@ -1,0 +1,10 @@
+.website {
+    align-self: flex-end;
+    width: 49.18%;
+}
+
+@media screen and (max-width: 480px) {
+    .website {
+        display: none;
+    }
+}
