@@ -1,0 +1,7 @@
+.blackout {
+    transition: opacity 1s;
+}
+
+.blackout:hover {
+    opacity: 0.2;
+}

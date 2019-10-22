@@ -1,0 +1,15 @@
+.video__content-title {
+    line-height: 78px;
+}
+
+@media screen and (max-width: 768px) {
+    .video__content-title {
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .video__content-title {
+        line-height: 35px;
+    }
+}
