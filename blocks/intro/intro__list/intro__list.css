@@ -1,0 +1,12 @@
+.intro__list {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .intro__list {
+    margin-top: 40px;
+    }
+}
