@@ -1,0 +1,12 @@
+.comment__author {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: 'Inter';
+}
+
+@media screen and (max-width: 768px) {
+    .comment__author {
+        order: -1;
+    }
+}
